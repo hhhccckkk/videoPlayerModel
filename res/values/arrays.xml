@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="url">
+        
+        <item >
+      http://180.96.9.240/youku/67736A4AA104581B0E5F09241B/030020010051D0D61AD1ED003512F9B48427B9-9BFC-0323-9150-D4D6E3BEF5EC.mp4  
+        </item>
+        <item >http://59.63.177.85/youku/676CD0299B317D0896F82881/0300200100516A1ECF12BA003512F9DCFAB92E-F05B-ED71-1A77-7C29836A0CA3.mp4
+        </item>
+    </string-array>
+</resources>
